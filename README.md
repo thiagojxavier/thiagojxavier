@@ -8,7 +8,7 @@ i'm a web developer,and i'm studying web development at [onebitcode](https://www
 - `HTML 5`
 - `CSS 3`
 
-#### contacts
+#### Contacts
 
 - Email: dejesusxavierthiago@gmail.com
 - LinkedIn: https://www.linkedin.com/in/thiago-de-jesus-xavier

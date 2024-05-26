@@ -13,4 +13,4 @@ i'm a web developer,and i'm studying web development at [onebitcode](https://www
 - Email: dejesusxavierthiago@gmail.com
 - LinkedIn: https://www.linkedin.com/in/thiago-de-jesus-xavier
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagojxavier&theme=dark&show_icons=true)

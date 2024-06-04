@@ -1,4 +1,5 @@
 ### Welcome, Thiago here ! 🫡
+![octocat](https://github.com/thiagojxavier/thiagojxavier/assets/124896693/07576396-1f3e-4e9d-81a6-1c5cf0842795)
 
 #### About
 i'm a web developer,and i'm studying web development at [onebitcode](https://www.onebitcode.com/)
@@ -14,4 +15,4 @@ i'm a web developer,and i'm studying web development at [onebitcode](https://www
 - LinkedIn: https://www.linkedin.com/in/thiago-de-jesus-xavier
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagojxavier&theme=dark&show_icons=true)
-![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagojxavier)](https://github.com/thiagojxavier/github-readme-stats)

@@ -1,5 +1,4 @@
-### Welcome, Thiago here ! 🫡
-<img src="https://github.com/thiagojxavier/thiagojxavier/assets/124896693/07576396-1f3e-4e9d-81a6-1c5cf0842795" alt="octocat" width="100" height="100">
+<img src="https://github.com/thiagojxavier/thiagojxavier/assets/124896693/07576396-1f3e-4e9d-81a6-1c5cf0842795" alt="octocat" width="300" height="300">### Welcome, Thiago here ! 🫡
 
 #### About
 i'm a web developer,and i'm studying web development at [onebitcode](https://www.onebitcode.com/)
